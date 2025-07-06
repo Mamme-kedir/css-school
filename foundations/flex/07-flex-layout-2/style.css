@@ -63,9 +63,3 @@ li {
   gap: 32px;
   flex-wrap: wrap;
 }
-
-.carder {
-  width: 50%;
-  height: 70%;
-  margin: 0 auto;
-}
